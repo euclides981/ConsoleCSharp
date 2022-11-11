@@ -10,7 +10,7 @@ namespace ConsoleCSharp
     {
         public static void Main()
         {
-            Console.WriteLine("Digite um número para executar a tabuada");
+            Console.WriteLine("Digite o número que será o multiplicador da tabuada");
 
             int numeroTabuada = Convert.ToInt32(Console.ReadLine());
 
